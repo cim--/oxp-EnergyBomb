@@ -1,0 +1,12 @@
+(
+	(
+		7, 9000, "Energy Bomb",
+		"EQ_ENERGY_BOMB",
+		"A one-shot super-weapon capable of destroying all small craft within range.",
+		{
+			condition_script = "oolite-conditions.js";
+			fast_affinity_offensive = true; // tries to bind to 'Tab' if nothing else bound
+			script = "energy-bomb-equipment.js";
+		}
+	)
+)

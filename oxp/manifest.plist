@@ -1,0 +1,12 @@
+{
+	"identifier" = "oolite.oxp.cim.energy-bomb";
+	"required_oolite_version" = "1.79";
+	"title" = "Energy Bomb";
+	"version" = "1.0";
+	"category" = "Equipment";
+	"description" = "The original indiscriminate superweapon. Available as primable equipment from TL:8 systems and above. Previous versions of this expansion pack are not compatible with Oolite 1.79 or later.";
+	"download_url" = "http://compsoc.dur.ac.uk/~cim/oolite/EnergyBomb_1.0.oxz";
+	"author" = "cim";
+	"information_url" = "http://wiki.alioth.net/index.php/Energy_Bomb";
+	"license" = "CC-BY-NC-SA 3.0";
+}
